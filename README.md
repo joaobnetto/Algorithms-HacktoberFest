@@ -9,6 +9,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 * `A` [KMP Algorithm](C++/KMP(string-matching-algorithm).cpp)
 * `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
 * `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
+* `B` [Bubble Sort](C++/bubble_sort.cpp)
 
 ## JavaScript 
 
